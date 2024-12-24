@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @keezus77
-- 👀 I’m interested in Data Engineering, Machine Learning and Analytics
-- 🌱 I’m currently learning Azure ML Studio and combining skills from different Data aspects
-- 💞️ I’m looking to collaborate on any type of Live Data applications or platforms!
-- 📫 How to reach me:
-  email: savic.luka5477@gmail.com
-  LinkedIn: https://www.linkedin.com/in/luka-savic-4923b1248/
-- ⚡ Fun fact: I'm a huge CS2 nut! After coding we can always jump in de_mirage if u ask me! :))
+👋 Hi, I’m @keezus77
+
+🎸 Data Engineer & Analyst with a love for turning chaos into clean, actionable data.
+💡 Creator of a killer employee efficiency grading tool – adaptable, scalable, and all about making teams shine.
+👾 Horror movie fan (but hold the gore) and gaming enthusiast (catch me on CS2).
+🏍 Soon-to-be motorcycle (chopper) rider – living life on two wheels and data pipelines.
+🎨 Just got my forearms inked – tattoos and tech are kinda my thing.
+🔥 Currently exploring how to transform text prompts into data visuals – always up for a challenge.
+
+Let’s build something awesome together. Whether it’s data-driven tools, analytics dashboards, or your next dream project – I’m your guy.
+
+Drop me a line, fork a repo, or just say hi! 🚀
+
 
 <!---
 keezus77/keezus77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
